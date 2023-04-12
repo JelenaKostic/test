@@ -6,7 +6,7 @@ namespace ECommerceApplication.Services
     {
         public long AvailableQuantity()
         {
-            return 10;
+            return 12;
         }
     }
 }
